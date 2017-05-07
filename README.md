@@ -4,12 +4,12 @@ A 2D shooting game written in Java
 Files: <br />
 Please run prototype.java, which is located at Rainbow Ball/src/edu/virginia/FinalBuild as we built off of our prototype all along. 
 
-CONTROLS:
+CONTROLS: <br />
 WASD keys: move <br />
 Left click: shoot weapon <br />
 R key: weapon switch <br />
 
-HEALTH:
+HEALTH: <br />
 Player health bar at top of screen (horizontal green bar). <br />
 Enemy health bars are underneath each enemy. <br />
 If you are out of health you lose. <br />
