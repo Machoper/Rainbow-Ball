@@ -18,7 +18,9 @@ COMBAT: <br />
 You will gain various colored balls to act as power-ups or weapons. <br />
 Colors will have different damage levels on different enemies. <br />
 You will slowly pick up more colors of the rainbow after traversing the grid and killing bosses. <br />
-For reference:	red ball -> double damage <br />
+
+For reference: <br />	
+		red ball -> double damage <br />
 		orange ball -> gain max speed <br />
 		blue ball -> “freeze” enemy <br />
 		green ball -> recover HP <br />
